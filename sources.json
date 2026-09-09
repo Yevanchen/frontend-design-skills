@@ -1,0 +1,51 @@
+{
+  "category": "design",
+  "sources": {
+    "leonxlnx/taste-skill": {
+      "skills": {
+        "brandkit": "skills/brandkit",
+        "design-taste-frontend": "skills/taste-skill",
+        "design-taste-frontend-v1": "skills/taste-skill-v1",
+        "full-output-enforcement": "skills/output-skill",
+        "gpt-taste": "skills/gpt-tasteskill",
+        "high-end-visual-design": "skills/soft-skill",
+        "image-to-code": "skills/image-to-code-skill",
+        "imagegen-frontend-mobile": "skills/imagegen-frontend-mobile",
+        "imagegen-frontend-web": "skills/imagegen-frontend-web",
+        "industrial-brutalist-ui": "skills/brutalist-skill",
+        "minimalist-ui": "skills/minimalist-skill",
+        "redesign-existing-projects": "skills/redesign-skill",
+        "stitch-design-taste": "skills/stitch-skill"
+      },
+      "notices": [
+        "LICENSE"
+      ]
+    },
+    "emilkowalski/skills": {
+      "skills": {
+        "emil-design-eng": "skills/emil-design-eng",
+        "find-animation-opportunities": "skills/find-animation-opportunities"
+      },
+      "notices": [
+        "LICENSE"
+      ]
+    },
+    "pbakaus/impeccable": {
+      "skills": {
+        "impeccable": ".agents/skills/impeccable"
+      },
+      "notices": [
+        "LICENSE",
+        "NOTICE.md"
+      ]
+    },
+    "vercel-labs/agent-skills": {
+      "skills": {
+        "web-design-guidelines": "skills/web-design-guidelines"
+      },
+      "notices": [
+        "README.md"
+      ]
+    }
+  }
+}
