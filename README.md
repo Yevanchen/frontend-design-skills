@@ -2,7 +2,7 @@
 
 前端设计技能集合，统一分类为 **design**，存放在 [`skills/design/`](skills/design/)。从各上游原样同步完整技能目录，保留配套文档、脚本及执行权限。
 
-共 17 项：Taste 13 项、Emil Kowalski 2 项、Impeccable 1 项、Vercel 1 项。不包含 UI UX Pro Max 的 `brand`；保留 Taste 的 `brandkit`。
+共 15 项：Taste 11 项、Emil Kowalski 2 项、Impeccable 1 项、Vercel 1 项。不包含 UI UX Pro Max 的 `brand`；保留 Taste 的 `brandkit`。
 
 ## 安装
 
@@ -30,13 +30,11 @@ Claude Code 用户将 `--agent codex` 换成 `--agent claude-code`。安装全�
 | [gpt-taste](skills/design/gpt-taste/SKILL.md) | GPT 设计与动效指导 | Taste |
 | [high-end-visual-design](skills/design/high-end-visual-design/SKILL.md) | 高端视觉风格预设 | Taste |
 | [minimalist-ui](skills/design/minimalist-ui/SKILL.md) | 极简编辑式风格预设 | Taste |
-| [industrial-brutalist-ui](skills/design/industrial-brutalist-ui/SKILL.md) | 工业粗野主义风格预设 | Taste |
 | [redesign-existing-projects](skills/design/redesign-existing-projects/SKILL.md) | 现有界面改版 | Taste |
 | [brandkit](skills/design/brandkit/SKILL.md) | 品牌视觉板与标志系统 | Taste |
 | [image-to-code](skills/design/image-to-code/SKILL.md) | 图片驱动的界面实现 | Taste |
 | [imagegen-frontend-web](skills/design/imagegen-frontend-web/SKILL.md) | Web 界面设计图生成 | Taste |
 | [imagegen-frontend-mobile](skills/design/imagegen-frontend-mobile/SKILL.md) | 移动端界面设计图生成 | Taste |
-| [stitch-design-taste](skills/design/stitch-design-taste/SKILL.md) | Google Stitch 设计系统指导 | Taste |
 | [full-output-enforcement](skills/design/full-output-enforcement/SKILL.md) | 完整输出约束 | Taste |
 | [emil-design-eng](skills/design/emil-design-eng/SKILL.md) | 设计工程与克制的动效 | Emil |
 | [find-animation-opportunities](skills/design/find-animation-opportunities/SKILL.md) | 识别值得添加动效的位置 | Emil |

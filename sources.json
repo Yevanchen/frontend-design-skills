@@ -12,10 +12,8 @@
         "image-to-code": "skills/image-to-code-skill",
         "imagegen-frontend-mobile": "skills/imagegen-frontend-mobile",
         "imagegen-frontend-web": "skills/imagegen-frontend-web",
-        "industrial-brutalist-ui": "skills/brutalist-skill",
         "minimalist-ui": "skills/minimalist-skill",
-        "redesign-existing-projects": "skills/redesign-skill",
-        "stitch-design-taste": "skills/stitch-skill"
+        "redesign-existing-projects": "skills/redesign-skill"
       },
       "notices": [
         "LICENSE"

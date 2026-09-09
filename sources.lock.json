@@ -15,10 +15,8 @@
           "image-to-code": "skills/image-to-code-skill",
           "imagegen-frontend-mobile": "skills/imagegen-frontend-mobile",
           "imagegen-frontend-web": "skills/imagegen-frontend-web",
-          "industrial-brutalist-ui": "skills/brutalist-skill",
           "minimalist-ui": "skills/minimalist-skill",
-          "redesign-existing-projects": "skills/redesign-skill",
-          "stitch-design-taste": "skills/stitch-skill"
+          "redesign-existing-projects": "skills/redesign-skill"
         },
         "notices": [
           "LICENSE"
@@ -112,11 +110,6 @@
       "path": "skills/imagegen-frontend-web",
       "commit": "ccbc15639c97057cbfcf32ecebc38ef716e4bb37"
     },
-    "industrial-brutalist-ui": {
-      "source": "leonxlnx/taste-skill",
-      "path": "skills/brutalist-skill",
-      "commit": "ccbc15639c97057cbfcf32ecebc38ef716e4bb37"
-    },
     "minimalist-ui": {
       "source": "leonxlnx/taste-skill",
       "path": "skills/minimalist-skill",
@@ -125,11 +118,6 @@
     "redesign-existing-projects": {
       "source": "leonxlnx/taste-skill",
       "path": "skills/redesign-skill",
-      "commit": "ccbc15639c97057cbfcf32ecebc38ef716e4bb37"
-    },
-    "stitch-design-taste": {
-      "source": "leonxlnx/taste-skill",
-      "path": "skills/stitch-skill",
       "commit": "ccbc15639c97057cbfcf32ecebc38ef716e4bb37"
     },
     "emil-design-eng": {
@@ -422,24 +410,12 @@
       "sha256": "bb36665889124a0b6e15f16045265737449c3bdcf2712cdb08af3cfa01563e2b",
       "executable": false
     },
-    "industrial-brutalist-ui/SKILL.md": {
-      "sha256": "fffbaac8597f07679e9d87145533567658aedba3b5eca6f16a7075a333048caa",
-      "executable": false
-    },
     "minimalist-ui/SKILL.md": {
       "sha256": "36bc7328f085405f43b476938e62460fa573bf7e984e949e072bcf014831a44c",
       "executable": false
     },
     "redesign-existing-projects/SKILL.md": {
       "sha256": "98ad3e5b051bfb71b2795f7e8a6aa0d32b51ee095606c098a4b2822ac07926c9",
-      "executable": false
-    },
-    "stitch-design-taste/DESIGN.md": {
-      "sha256": "0ab6740c4ebb1966dbceddb823a66d4bf027e960efbd73faca56cbf8370ae2ad",
-      "executable": false
-    },
-    "stitch-design-taste/SKILL.md": {
-      "sha256": "46bdb08fee2dded38b6ba0a051230a502d6ac6e4044afd47592cb40c256028b5",
       "executable": false
     },
     "web-design-guidelines/SKILL.md": {
